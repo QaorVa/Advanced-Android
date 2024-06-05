@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StoriesW</string>
+    <string name="login">Masuk</string>
+    <string name="title_login_page">Ayo bagikan ceritamu!</string>
+    <string name="message_login_page">Masukkan Email dan Password</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="title_signup_page">Buat Akun Baru</string>
+    <string name="name">Nama</string>
+    <string name="register">Daftar</string>
+    <string name="or">- Belum punya akun? -</string>
+    <string name="validation_password">Minimal 8 karakter</string>
+
+    <string name="label_day">%1$d hari lalu</string>
+    <string name="label_hour">%1$d jam lalu</string>
+    <string name="label_minutes">%1$d menit lalu</string>
+    <string name="label_seconds">%1$d detik lalu</string>
+    <string name="label_description">Deskripsi</string>
+    <string name="validation_email">Format email salah!</string>
+    <string name="upload_image">Unggah gambar story</string>
+    <string name="add_description">Tambahkan deskripsi</string>
+    <string name="hint_add_story_description">Tambahkan deskripsi story kamu</string>
+    <string name="gallery">Gallery</string>
+    <string name="camera">Kamera</string>
+    <string name="upload_story">Unggah Story</string>
+    <string name="settings">Pengaturan</string>
+    <string name="logout">Keluar</string>
+    <string name="login_failed">email/password salah</string>
+    <string name="fill_required">form harus diisi</string>
+    <string name="register_success">Akun berhasil dibuat</string>
+    <string name="image_size">ukuran gambar melebihi 1 MB</string>
+    <string name="translate">Ganti Bahasa</string>
+    <string name="upload_failed">Upload story gagal!</string>
+    <string name="upload_success">Story baru ditambahkan!</string>
+    <string name="error_dialog">Terdapat error, tolong coba lagi.</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="maps">Peta</string>
+    <string name="map_check">Tambahkan lokasi saat ini pada story</string>
+    <string name="settings_menu">settings_menu</string>
+    <string name="retry">Coba lagi</string>
+</resources>
